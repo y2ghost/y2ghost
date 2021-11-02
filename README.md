@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @y2ghost
+- 👋 Hi, I’m y2ghost
 - 👀 I’m interested in programming, like driving cars and motorcycles
 - 🌱 I’m currently learning kubernetes
 - 💞️ I’m looking to collaborate on R&D
