@@ -1,5 +1,2 @@
-- 👋 I’m ydoit
-- 👀 I’m interested in programming, driving and planting
-- 🌱 I’m coding mine ambition
-- 💞️ I’m living in a colorful life
-- 📫 Send me mail to snrtcel@126.com
+- 👋 I'm ydoit
+- 👀 I'm interested in programming, driving and planting
